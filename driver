@@ -3,3 +3,6 @@ driver file
 dll
 }
 dll @ kdd %%%
+{
+dll.dri.url
+}
