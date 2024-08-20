@@ -1,7 +1,8 @@
 {
 hello 
 jai sri ram
-bye
-hai
+
+jai mata di
+
 jai mahadev
 }
